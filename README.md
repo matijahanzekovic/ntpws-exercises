@@ -1,1 +1,1 @@
-# ntpws
+# ntpws-exercises
